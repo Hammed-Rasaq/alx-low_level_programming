@@ -1,7 +1,7 @@
 #include <stdio.h>
  /**
   * main -prints alphabets in lowercase
-  * print all except q an e, followed by a new line
+  * prints all except q an e, followed by a new line
   * Return: Always 0 (Success)
   */
 int main(void)
@@ -10,7 +10,7 @@ int main(void)
 
 	while (ch <= 'z')
 	{
-		if (ch != 'e' && ch != 'e')
+		if (ch != 'e' && ch != 'q')
 		{
 			putchar(ch);
 		}
