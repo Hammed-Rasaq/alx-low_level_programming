@@ -1,4 +1,5 @@
 #include <stdio.h>
+
  /**
   * main -prints alphabets in lowercase
   * followed by a new line, eccept e and q
