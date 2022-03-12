@@ -4,7 +4,7 @@
 
 /**
  * main - print the last digit of the random number
- * and execute it
+ * number stured in variable n
  * return: always 0 (success)
  */
 int main(void)
