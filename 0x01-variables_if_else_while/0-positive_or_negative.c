@@ -2,13 +2,14 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
- * main - assign a roandom number to int n each time it execute and print it
+/**
+ * main - assign a roandom number to int n each time
+ * it execute and print it
  * Return: Always 0 (succes)
  */
- int main(void)
- {
- 	int n;
+int main(void)
+{
+	int n;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
