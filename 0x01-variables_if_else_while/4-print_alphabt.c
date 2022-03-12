@@ -1,7 +1,7 @@
 #include <stdio.h>
  /**
   * main -prints alphabets in lowercase
-  * prints all except q an e, followed by a new line
+  * followed by a new line, eccept e and q
   * Return: Always 0 (Success)
   */
 int main(void)
