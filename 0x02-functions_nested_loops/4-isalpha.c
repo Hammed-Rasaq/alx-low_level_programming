@@ -7,7 +7,7 @@
  * Return: 1 (if letter)
  */
 int _isalpha(int c)
-{ 
+{
 	if (c >= 'a' && c <= 'z')
 	{
 		return (1);
